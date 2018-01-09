@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to Collaborate
+Sign up to the course and create your branch and see what happens

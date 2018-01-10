@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fred Bloggs -- Super User -- @SuperFredB
 
 # THANKS
 

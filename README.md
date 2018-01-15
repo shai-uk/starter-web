@@ -15,6 +15,7 @@ It's all getting complicated :-) But it is a simple web project which can be dep
 ## How to Collaborate
 Sign up to the course and create your branch and see what happens.
 Fork repository and submit for review
+Changes to demonstrate re-basing
 
 ## Copyright
 Copyright 2018.01 Git Training

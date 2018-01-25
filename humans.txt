@@ -1,6 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# Changes
+	Modifications for multiple stash
+
 # TEAM
 
     Fred Bloggs -- Super User -- @SuperFredB
